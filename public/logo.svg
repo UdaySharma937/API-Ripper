@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="apiripperGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 2 L58 14 V32 C58 46 47 56 32 62 C17 56 6 46 6 32 V14 Z" fill="url(#apiripperGrad)" opacity="0.15" stroke="url(#apiripperGrad)" stroke-width="2"/>
+  <path d="M26 16 L18 32 L26 32 L22 48 L46 28 L34 28 L40 16 Z" fill="url(#apiripperGrad)"/>
+  <circle cx="32" cy="32" r="29" stroke="url(#apiripperGrad)" stroke-width="1.5" opacity="0.4"/>
+</svg>
